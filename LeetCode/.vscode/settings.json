@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.jsx": "javascriptreact",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "map": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "string": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
