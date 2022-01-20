@@ -9,7 +9,16 @@
         "chrono": "cpp",
         "algorithm": "cpp",
         "deque": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
